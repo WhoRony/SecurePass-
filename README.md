@@ -29,4 +29,4 @@ SecurePass is a simple Python-based CLI tool that allows users to:
 ## ▶️ How to Run
 
 ```bash
-python securepass.py
+python SecurePassv0.1.py
